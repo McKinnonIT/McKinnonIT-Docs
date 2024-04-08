@@ -1,6 +1,8 @@
 site_name: McKinnon IT Documentation
 site_url: https://mckinnonit.github.io/mckinnonit-docs/
 repo_url: https://github.com/McKinnonIT/McKinnonIT-Docs
+repo_name: McKinnonIT/McKinnonIT-Docs
+edit_uri: edit/main/docs/
 theme:
   name: material
   features:
@@ -21,12 +23,15 @@ theme:
     - content.code.annotation
     - content.code.copy
     - header.autohide
+    - content.action.edit
   language: en
   palette:
     - scheme: default
       toggle:
         icon: material/toggle-switch-off-outline 
         name: Switch to dark mode
+        edit: material/pencil
+        view: material/eye
       primary: blue
       accent: purple 
     - scheme: slate 
@@ -35,11 +40,6 @@ theme:
         name: Switch to light mode    
       primary: blue
       accent: lime
-
----
-hide:
-  - path
----
 
 plugins:
   - social
