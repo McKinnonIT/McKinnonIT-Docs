@@ -24,6 +24,7 @@ theme:
     - content.code.copy
     - header.autohide
     - content.action.edit
+    - content.action.view
   language: en
   palette:
     - scheme: default
