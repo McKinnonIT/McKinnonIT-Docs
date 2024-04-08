@@ -1,6 +1,6 @@
 site_name: McKinnon IT Documentation
 site_url: https://mckinnonit.github.io/mckinnonit-docs/
-repo_url: https://github.com/McKinnonIT/McKinnonIT-Docs
+repo_url: https://github.com/McKinnonIT/mckinnonit-docs
 repo_name: McKinnonIT/McKinnonIT-Docs
 edit_uri: edit/main/docs/
 theme:
