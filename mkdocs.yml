@@ -11,6 +11,7 @@ theme:
     - navigation.instant
     - navigation.instant.prefetch
     - navigation.instant.progress
+    - navigation.path
     - toc.integrate
     - navigation.top
     - search.suggest
