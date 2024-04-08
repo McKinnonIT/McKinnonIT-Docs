@@ -1,4 +1,4 @@
-mkdocsite_name: McKinnon IT Documentation
+site_name: McKinnon IT Documentation
 site_url: https://mckinnonit.github.io/mckinnonit-docs/
 theme:
   name: material
