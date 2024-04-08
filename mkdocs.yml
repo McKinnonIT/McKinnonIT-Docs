@@ -5,14 +5,21 @@ theme:
   name: material
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
     - navigation.sections
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
     - toc.integrate
     - navigation.top
     - search.suggest
     - search.highlight
+    - search.share
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - header.autohide
   language: en
   palette:
     - scheme: default
