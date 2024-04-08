@@ -36,8 +36,10 @@ theme:
       primary: blue
       accent: lime
 
+---
 hide:
   - path
+---
 
 plugins:
   - social
