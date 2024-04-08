@@ -1,5 +1,6 @@
 site_name: McKinnon IT Documentation
 site_url: https://mckinnonit.github.io/mckinnonit-docs/
+repo_url: https://github.com/McKinnonIT/McKinnonIT-Docs
 theme:
   name: material
   features:
