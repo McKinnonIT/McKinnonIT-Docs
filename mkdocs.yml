@@ -37,10 +37,10 @@ theme:
       accent: purple 
     - scheme: slate 
       toggle:
-        icon: material/toggle-switch
+        icon: material/weather-night
         name: Switch to light mode    
       primary: blue
-      accent: lime
+      accent: red
 
 plugins:
   - social
