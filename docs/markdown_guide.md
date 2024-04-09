@@ -20,7 +20,6 @@ In Markdown, you can create headings by using hash symbols (#). The number of ha
 >##### H5
 >###### H6
 
-
 ## Formatting Text
 Markdown offers simple and intuitive syntax for formatting text in various styles. You can easily make your text **bold**, *italic*, or even ~~strikethrough~~ with just a few characters. Enclosing your text in double asterisks (`**`) or underscores (`__`) creates **bold** text, while single asterisks (`*`) or underscores (`_`) render text in *italics*. To strike through text, simply use double tildes (`~~`). Additionally, inline code can be highlighted by enclosing it in backticks (\`). For hyperlinks, enclose the link text in square brackets followed by the URL in parentheses. Images can be included by preceding the alt text with an exclamation mark, followed by the image URL in parentheses. Markdown's straightforward syntax for text formatting allows for clear and concise communication in your documents.
 
@@ -68,7 +67,7 @@ _Italic Text_
 ### Blockquote Example
 > Blockquote Text
 
-Table, like this one :
+## Tables
 
 First Header  | Second Header
 ------------- | -------------
