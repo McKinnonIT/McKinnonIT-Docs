@@ -1,7 +1,26 @@
-# Markdown Guide<a name="TOP"></a>
-===================
+# Markdown Guide
+Markdown is a lightweight markup language with plain-text formatting syntax. It is designed to be easy to read and easy to write, making it a popular choice for creating content for the web. In this guide, we'll cover everything you need to know to get started with Markdown, from basic syntax to more advanced techniques. Whether you're a beginner or an experienced user looking to refresh your skills, this guide will provide you with the knowledge and tools you need to effectively use Markdown in your documentation and projects.
 
-- - - - 
+## Headings
+In Markdown, you can create headings by using hash symbols (#). The number of hash symbols indicates the level of the heading, with one hash symbol representing the highest level of heading and six hash symbols representing the lowest level. For example:
+
+``` md title="Headings"
+# H1
+## H2
+### H3
+#### H4
+##### H5
+###### H6
+
+Alternatively, for H1 and H2, an underline-ish style:
+
+Alt-H1
+======
+
+Alt-H2
+------
+```
+
 # Heading 1 #
 
     Markup :  # Heading 1 #
