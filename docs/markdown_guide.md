@@ -4,75 +4,63 @@ Markdown is a lightweight markup language with plain-text formatting syntax. It 
 ## Headings
 In Markdown, you can create headings by using hash symbols (#). The number of hash symbols indicates the level of the heading, with one hash symbol representing the highest level of heading and six hash symbols representing the lowest level. For example:
 
-``` md title="Headings"
+``` md title="Headings Markdown Code"
 # H1
 ## H2
 ### H3
 #### H4
 ##### H5
 ###### H6
-
-Alternatively, for H1 and H2, an underline-ish style:
-
-Alt-H1
-======
-
-Alt-H2
-------
 ```
+### Heading Example
 
-# Heading 1 #
+># H1
+>## H2
+>### H3
+>#### H4
+>##### H5
+>###### H6
 
-    Markup :  # Heading 1 #
+## Formatting Text
+Markdown offers simple and intuitive syntax for formatting text in various styles. You can easily make your text **bold**, *italic*, or even ~~strikethrough~~ with just a few characters. Enclosing your text in double asterisks (`**`) or underscores (`__`) creates **bold** text, while single asterisks (`*`) or underscores (`_`) render text in *italics*. To strike through text, simply use double tildes (`~~`). Additionally, inline code can be highlighted by enclosing it in backticks (\`). For hyperlinks, enclose the link text in square brackets followed by the URL in parentheses. Images can be included by preceding the alt text with an exclamation mark, followed by the image URL in parentheses. Markdown's straightforward syntax for text formatting allows for clear and concise communication in your documents.
 
-    -OR-
-
-    Markup :  ============= (below H1 text)
-
-## Heading 2 ##
-
-    Markup :  ## Heading 2 ##
-
-    -OR-
-
-    Markup: --------------- (below H2 text)
-
-### Heading 3 ###
-
-    Markup :  ### Heading 3 ###
-
-#### Heading 4 ####
-
-    Markup :  #### Heading 4 ####
-
-
-Common text
-
-    Markup :  Common text
-
-_Emphasized text_
-
-    Markup :  _Emphasized text_ or *Emphasized text*
-
-~~Strikethrough text~~
-
-    Markup :  ~~Strikethrough text~~
-
-__Strong text__
-
-    Markup :  __Strong text__ or **Strong text**
-
-___Strong emphasized text___
-
-    Markup :  ___Strong emphasized text___ or ***Strong emphasized text***
-
-[Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
-
-    Markup :  [Named Link](http://www.google.fr/ "Named link title") and http://www.google.fr/ or <http://example.com/>
-
-[heading-1](#heading-1 "Goto heading-1")
-    
-    Markup: [heading-1](#heading-1 "Goto heading-1")
+``` md title="Bold Markdown Code"
+**Bold Text**
+__Bold Text__
+```
+### Bold Example
+>**Bold Text**
+``` md title="Italic Markdown Code"
+*Italic Text*
+_Italic Text_
+```
+### Italic Example
+>*Italic Text*
+``` md title="Strikethrough Markdown Code"
+~~Strikethrough Text~~
+```
+### Strikethrough Example
+>~~Strikethrough Text~~
+``` md title="Inline Code Markdown Code"
+`Inline Code`
+```
+### Inline Code Example
+>`Inline Code`
+``` md title="Link Markdown Code"
+[Link Text](https://example.com)
+```
+### Link Example
+>[Link Text](https://example.com)
+``` md title="Image Markdown Code"
+![Image Alt Text](image.jpg)
+```
+### Image Example
+>![Image Alt Text](image.jpg)
+``` md title="> Blockquote Text Markdown Code"
+> Blockquote Text
+```
+### Blockquote Example
+> Blockquote Text
 
 Table, like this one :
 
