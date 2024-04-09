@@ -55,13 +55,14 @@ _Italic Text_
 ```
 ### Link Example
 >[Link Text](https://example.com)
+
 ``` md title="Image Markdown Code"
 ![Image Alt Text](image.jpg)
 ```
 ### Image Example
 >![Image Alt Text](image.jpg)
 
-``` md title="> Blockquote Text Markdown Code"
+``` md title="Blockquote Text Markdown Code"
 > Blockquote Text
 ```
 ### Blockquote Example
