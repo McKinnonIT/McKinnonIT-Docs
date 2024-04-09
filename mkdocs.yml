@@ -23,6 +23,7 @@ theme:
     - content.tabs.link
     - content.code.annotation
     - content.code.copy
+    - content.code.select
     - header.autohide
     - content.action.edit
     - content.action.view
