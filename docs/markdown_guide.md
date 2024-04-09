@@ -12,7 +12,16 @@ In Markdown, you can create headings by using hash symbols (#). The number of ha
 ##### H5
 ###### H6
 ```
->:book: **Heading Example**
+!!! Heading Example
+
+    # H1
+    ## H2
+    ### H3
+    #### H4
+    ##### H5
+    ###### H6
+
+### Heading Example
 ># H1
 >## H2
 >### H3
