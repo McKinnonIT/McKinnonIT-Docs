@@ -1,3 +1,8 @@
+---
+hide:
+  - footer
+---
+
 # McKinnon IT Docs
 
 ## Subheading
