@@ -13,5 +13,3 @@ Microsoft Entra ID, formerly known as Azure Active Directory (Azure AD), is a cl
 ### Some Text About Microsoft Intune
 
 Overall, Microsoft Intune is a valuable tool for organizations with a mobile workforce or those that need to manage a variety of devices accessing company data. It streamlines device management, strengthens security, and simplifies app distribution, all from a centralized cloud platform.
-
-## Hi Harry
