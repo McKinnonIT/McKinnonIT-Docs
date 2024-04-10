@@ -15,6 +15,8 @@ There are a lot of different projects on the go. Although everything is tracked 
 ### 10-04-2024
 * Changed Shared iPad update policy to push 17.4.1 at next check-in.
 * T08 Lab MacOS iMacs added and assigned. All compliant.
+* T08 Custom Dock configuration added.
+* Modified T Block category to T04/T05 MacOS Lab.
 
 ### 09-04-2024
 * Added Rob's Metabox to the blocked devices group.
