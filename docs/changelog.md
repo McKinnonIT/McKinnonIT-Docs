@@ -12,6 +12,10 @@ There are a lot of different projects on the go. Although everything is tracked 
 * Added avatars of each user to make commits to each page.
 
 ## Intune (example)
+### 10-04-2024
+* Changed Shared iPad update policy to push 17.4.1 at next check-in.
+* T08 Lab MacOS iMacs added and assigned. All compliant.
+
 ### 09-04-2024
 * Added Rob's Metabox to the blocked devices group.
 * Wiped Sam's MacBook.
